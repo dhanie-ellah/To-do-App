@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [To-do App](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/todo-app-yZxhl6sSpp)
+- Live Site URL: [To-do App](https://dhanie-ellah-to-do-app.netlify.app)
 
 ## My process
 
